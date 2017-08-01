@@ -1,0 +1,37 @@
+/* Element - abbreviation*/
+li{
+
+}
+
+/* class - period */
+.test{
+
+}
+
+/* id - hashtag but can only be used once*/
+#name
+
+/* Star */
+*{
+
+}
+
+/* Descendant Selector - Elements with organization (a, b, c, etc.) */
+li a{
+
+}
+
+/* Adjacent Selector - sibling use */
+h1 + ul {
+
+}
+
+/* Attribute Selector - Select element with any attribute */
+a[href="google link------"]
+or
+input[type="text"]
+
+/* nth of type */
+ul:nth-of-type(3){
+	background: purple;
+}
