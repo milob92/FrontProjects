@@ -40,3 +40,7 @@ hr.style{
   background-image: -ms-linear-gradient(left, #DCEB15, #8c8b8b, #DCEB15);
   background-image: -o-linear-gradient(left, #DCEB15, #8c8b8b, #DCEB15);
 }
+
+.post{
+	margin-bottom: 20px;
+}
