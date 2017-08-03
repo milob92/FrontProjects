@@ -1,5 +1,6 @@
 img{
 	width: 50%;
+	margin: 10px;
 }
 
 body{
@@ -23,9 +24,19 @@ body{
 	padding-left: 5px;
 }
 
+
 .date{
 	text-transform: uppercase;
 	font-family: 'Gloria Hallelujah', cursive;
 	padding-left: 5px;
 	letter-spacing: 0.2rem;
+}
+
+hr.style{
+	  border: 0; 
+  height: 1px; 
+  background-image: -webkit-linear-gradient(left, #DCEB15, #8c8b8b, #DCEB15);
+  background-image: -moz-linear-gradient(left, #DCEB15, #8c8b8b, #DCEB15);
+  background-image: -ms-linear-gradient(left, #DCEB15, #8c8b8b, #DCEB15);
+  background-image: -o-linear-gradient(left, #DCEB15, #8c8b8b, #DCEB15);
 }
