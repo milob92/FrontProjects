@@ -24,6 +24,9 @@ body{
 	padding-left: 5px;
 }
 
+.post{
+	margin-bottom: 20px;
+}
 
 .date{
 	text-transform: uppercase;
@@ -33,6 +36,7 @@ body{
 }
 
 hr.style{
+	margin-bottom: 20px;
 	  border: 0; 
   height: 1px; 
   background-image: -webkit-linear-gradient(left, #DCEB15, #8c8b8b, #DCEB15);
@@ -41,6 +45,3 @@ hr.style{
   background-image: -o-linear-gradient(left, #DCEB15, #8c8b8b, #DCEB15);
 }
 
-.post{
-	margin-bottom: 20px;
-}
